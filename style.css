@@ -1,0 +1,24 @@
+h1{
+	color: blue;
+	text-decoration-line: overline;
+	background color: black;
+}
+body {
+  color: orange;
+}
+div {
+  padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+}
+form {
+	color: red;
+}
+ul {
+ list-style: none;
+}
+li{
+	display:inline;
+ margin: 100px;
+}
